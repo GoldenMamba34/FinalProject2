@@ -4,6 +4,9 @@ text-align: center;
 font-family: 'Permanent Marker', bold;
 
 }
+main img {
+    width: 90%;
+}
 body {
 margin: 10px 20px;
 }
@@ -174,7 +177,7 @@ float: left;
 padding-bottom:10px;
 }
 }
-@media (min-width:800px) and (max-width: 1024px){
+@media (min-width:800px){
 .bottom {
 padding-bottom: 65px;
 }
